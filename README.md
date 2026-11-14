@@ -1,6 +1,6 @@
 ![Bellegend — Creative Technology Solutions](banner.png)
 
-# Bellegend (BCTS) — Creative Technology Solutions 🇩🇿
+# Bellegend (BCTS) — Creative Technology Solutions
 
 We help organisations in Algeria and beyond turn AI and data into real results.
 
